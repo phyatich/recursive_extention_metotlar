@@ -1,0 +1,15 @@
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/recursive_extention_metotlar/bin/Debug/net5.0/recursive_extention_metotlar.deps.json
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/recursive_extention_metotlar/bin/Debug/net5.0/recursive_extention_metotlar.runtimeconfig.json
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/recursive_extention_metotlar/bin/Debug/net5.0/recursive_extention_metotlar.runtimeconfig.dev.json
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/recursive_extention_metotlar/bin/Debug/net5.0/recursive_extention_metotlar.dll
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/recursive_extention_metotlar/bin/Debug/net5.0/ref/recursive_extention_metotlar.dll
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/recursive_extention_metotlar/bin/Debug/net5.0/recursive_extention_metotlar.pdb
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/recursive_extention_metotlar/obj/Debug/net5.0/recursive_extention_metotlar.csproj.AssemblyReference.cache
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/recursive_extention_metotlar/obj/Debug/net5.0/recursive_extention_metotlar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/recursive_extention_metotlar/obj/Debug/net5.0/recursive_extention_metotlar.AssemblyInfoInputs.cache
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/recursive_extention_metotlar/obj/Debug/net5.0/recursive_extention_metotlar.AssemblyInfo.cs
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/recursive_extention_metotlar/obj/Debug/net5.0/recursive_extention_metotlar.csproj.CoreCompileInputs.cache
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/recursive_extention_metotlar/obj/Debug/net5.0/recursive_extention_metotlar.dll
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/recursive_extention_metotlar/obj/Debug/net5.0/ref/recursive_extention_metotlar.dll
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/recursive_extention_metotlar/obj/Debug/net5.0/recursive_extention_metotlar.pdb
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/recursive_extention_metotlar/obj/Debug/net5.0/recursive_extention_metotlar.genruntimeconfig.cache
